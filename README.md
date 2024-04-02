@@ -1,2 +1,2 @@
 # dribbble_clone
-Dribbble Clone UI/UX Designed
+Dribbble Clone UI/UX Design
